@@ -17,6 +17,10 @@ One expected to have an understanding of the following:
 - Java
 - Maven
 
-## Credit
+## Getting Started
 
-[Khwilo Kabaka](https://www.github.com/khwilo)
+1. Clone the repository `git clone https://github.com/khwilo/TaskScheduler.git`
+2. Install the maven dependencies using either of the two options:
+   - If you are using IntelliJ IDEA, import the project (this will install the dependencies automatically)
+   - Execute the following command from command line at the root directory of this project `mvn install`
+3. Run the application
